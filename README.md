@@ -29,4 +29,6 @@ Adds event listeners for the "click" event on the "joke-btn" button:
 changeRandomColor(): Changes text color.
 startJoke(): Fetches Chuck Norris jokes.
 
+https://joke-generator-mini-project.vercel.app/
+
 
